@@ -22,21 +22,6 @@
 
 <br clear="right"/>
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=C77DFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=C77DFF)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=C77DFF)
-![Angular](https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=C77DFF)
-![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=C77DFF)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=C77DFF)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=C77DFF)
-![C%23](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=C77DFF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=C77DFF)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=C77DFF)
-
-</div>
-
 <br>
 
 ## Репозитории
