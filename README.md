@@ -27,10 +27,9 @@
 ## Репозитории
 
 <div align="center">
-<a href="https://github.com/bytevaa/html-"><img height="150" src="https://github-readme-stats-orcin-omega.vercel.app/api/pin/?username=bytevaa&repo=html-&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=C77DFF&text_color=ffffff" /></a>
+<a href="https://github.com/bytevaa/stays-landing-page"><img height="150" src="https://github-readme-stats-orcin-omega.vercel.app/api/pin/?username=bytevaa&repo=stays-landing-page&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=C77DFF&text_color=ffffff" /></a>
 <a href="https://github.com/bytevaa/first-academic-practice"><img height="150" src="https://github-readme-stats-orcin-omega.vercel.app/api/pin/?username=bytevaa&repo=first-academic-practice&hide_border=true&bg_color=00000000&title_color=C77DFF&icon_color=C77DFF&text_color=ffffff" /></a>
 </div>
-
 <br>
 
 ## GitHub
