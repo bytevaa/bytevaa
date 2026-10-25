@@ -18,10 +18,11 @@
   src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"
 />
 
- **Frontend** — JavaScript / TypeScript · HTML5 / CSS3
- **Изучаю** — React · Angular · Vue.js
- **Backend и базы данных** — Node.js · Python · C#
- **Инструменты** — Docker · Git / GitHub · VS Code · npm
+
+- **Frontend** — JavaScript / TypeScript · HTML5 / CSS3
+- **Изучаю** — React · Angular · Vue.js
+- **Backend и базы данных** — Node.js · Python · C#
+- **Инструменты** — Docker · Git / GitHub · VS Code · npm
 
 <br clear="right" />
 
