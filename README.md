@@ -19,8 +19,7 @@
 />
 
 
-- **Frontend** — JavaScript / TypeScript · HTML5 / CSS3
-- **Изучаю** — React · Angular · Vue.js
+- **Frontend** — JavaScript / TypeScript · HTML5 / CSS3  / React
 - **Backend и базы данных** — Node.js · Python · C#
 - **Инструменты** — Docker · Git / GitHub · VS Code · npm
 
