@@ -75,9 +75,6 @@
 
 <br />
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D5F7,25:D8A7E8,50:B58DE0,75:D8A7E8,100:F6D5F7&height=120&section=footer"
-  width="100%"
-/>
+
 
 </div>
