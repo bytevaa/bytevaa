@@ -1,7 +1,8 @@
 <div align="center">
 
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=C77DFF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%E2%9C%A8;Изучаю+React%2C+Angular%2C+Vue.js"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D5F7,25:D8A7E8,50:B58DE0,75:D8A7E8,100:F6D5F7&height=180&section=header&text=Eva%20Korigova&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
+    width="100%"
   />
 </div>
 
