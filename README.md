@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D5F7,25:D8A7E8,50:B58DE0,75:D8A7E8,100:F6D5F7&height=180&section=header&text=Eva%20Korigova&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D5F7,25:D8A7E8,50:B58DE0,75:D8A7E8,100:F6D5F7&height=180&section=header&text=Frontend%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"
     width="100%"
   />
 </div>
